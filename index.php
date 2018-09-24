@@ -26,7 +26,10 @@
       <link rel="stylesheet" type="text/css" href="hp_assets/css/main.css" />
       <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
   </head>
+<style>
+.hidden-lg {display: block!important;}
 
+</style>
   <body id="homepage">
     <div id="bg-overlay">&nbsp;</div>
     <!-- Line below is to preload the font when the page loads -->
